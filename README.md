@@ -7,3 +7,13 @@ Data analytics project exploring Netflix movies and TV shows dataset using Pytho
 - Tools: Python, Pandas, Matplotlib
 - Findings: Movies dominate, Drama is the most common genre
 - [View Notebook](./netflix_data_analysis.ipynb)
+### Advanced Work
+
+* Added data cleaning and preprocessing
+* Performed feature engineering (year_added, month_added)
+* Analyzed content growth trends over time
+* Explored genre and country distribution
+* Performed movie duration analysis
+* Extracted top actors from dataset
+* Implemented a basic genre-based recommendation system
+-  [View Notebook](./Netflix_Advanced_Analysis.ipynb)
