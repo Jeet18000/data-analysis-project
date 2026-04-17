@@ -1,7 +1,11 @@
-# data-analysis-project
+# Data-Analysis-Project
 Data analytics project exploring Netflix movies and TV shows dataset using Python. Includes data cleaning, exploratory analysis, content trends, and interactive dashboard visualization.
+---
 ## Projects
-
+<p align="center">
+  🐍 Python &nbsp;&nbsp; 📊 Data Analysis &nbsp;&nbsp; 📈 Visualization
+</p>
+---
 ### 1. Netflix Data Analysis
 - Dataset: Netflix Movies & TV Shows (Kaggle)
 - Tools: Python, Pandas, Matplotlib
